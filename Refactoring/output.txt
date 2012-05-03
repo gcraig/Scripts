@@ -1,0 +1,204 @@
+
+Processing ls-sites ...
+
+/nav/headers/about-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/about-header.jpg
+/pageheaders/t3_aboutliasophia.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_aboutliasophia.gif
+/subheaders/t3_changinglives.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_changinglives.gif
+/nav/headers/contact-me-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/contact-me-header.jpg
+/pageheaders/t3_contactme.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_contactme.gif
+/nav/headers/contact-me-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/contact-me-header.jpg
+/pageheaders/t3_contactme.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_contactme.gif
+/nav/headers/my-events-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/my-events-header.jpg
+/pageheaders/t3_myevents.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_myevents.gif
+/subheaders/t3_more.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_more.gif
+/buttons/t3_back.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_back.gif
+/buttons/t3_more.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_more.gif
+/pageheaders/t3_myfeatures.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_myfeatures.gif
+/subheaders/t3_more.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_more.gif
+/buttons/t3_back.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_back.gif
+/buttons/t3_contact.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_contact.gif
+/buttons/t3_benefits.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_benefits.gif
+/buttons/t3_freejewelry.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_freejewelry.gif
+/buttons/t3_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_joinus.gif
+/buttons/t3_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_joinus.gif
+/nav/headers/host-a-show-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/host-a-show-header.jpg
+/pageheaders/t3_hostashow.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_hostashow.gif
+/common/personal_header-image.jpg
+perl ~/src/perl/si.pl 4 /common/personal_header-image.jpg
+/pageheaders/t3_welcome.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_welcome.gif
+/buttons/t3_more.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_more.gif
+/buttons/t3_home_freejewelry.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_home_freejewelry.gif
+/buttons/t3_learnmore.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_learnmore.gif
+/homepage/t3_thumb_freejewelry.jpg
+perl ~/src/perl/si.pl 4 /homepage/t3_thumb_freejewelry.jpg
+/buttons/t3_home_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_home_joinus.gif
+/buttons/t3_learnmore.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_learnmore.gif
+/homepage/t3_thumb_joinus.jpg
+perl ~/src/perl/si.pl 4 /homepage/t3_thumb_joinus.jpg
+/buttons/t3_home_redcarpet.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_home_redcarpet.gif
+/buttons/t3_seemore.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_seemore.gif
+/homepage/t3_CNBC.jpg
+perl ~/src/perl/si.pl 4 /homepage/t3_CNBC.jpg
+/common/personal_header-image.jpg
+perl ~/src/perl/si.pl 4 /common/personal_header-image.jpg
+/pageheaders/t3_mybusiness.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_mybusiness.gif
+/common/personal_header-image.jpg
+perl ~/src/perl/si.pl 4 /common/personal_header-image.jpg
+/pageheaders/t3_mybusiness.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_mybusiness.gif
+/buttons/t3_more.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_more.gif
+/subheaders/t3_myfeatures.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_myfeatures.gif
+/subheaders/t3_myevents.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_myevents.gif
+/nav/headers/our-opportunity-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/our-opportunity-header.jpg
+/pageheaders/t3_ouropportunity.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t3_ouropportunity.gif
+/subheaders/t3_startbusiness.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_startbusiness.gif
+/subheaders/t3_findouthow.gif
+perl ~/src/perl/si.pl 4 /subheaders/t3_findouthow.gif
+/buttons/t3_more.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_more.gif
+/pageheaders/t4_about.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_about.gif
+/pageheaders/t4_interestingPast.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_interestingPast.gif
+/subheaders/t4_changingLives.gif
+perl ~/src/perl/si.pl 4 /subheaders/t4_changingLives.gif
+/nav/headers/about_image.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/about_image.jpg
+/pageheaders/t4_contactMe.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_contactMe.gif
+/nav/headers/contact_me_image.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/contact_me_image.jpg
+/pageheaders/t4_contactMe.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_contactMe.gif
+/nav/headers/contact_me_image.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/contact_me_image.jpg
+/pageheaders/t4_myEvents.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_myEvents.gif
+/nav/headers/my-events-header.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/my-events-header.jpg
+/subheaders/t4_myEvents.gif
+perl ~/src/perl/si.pl 4 /subheaders/t4_myEvents.gif
+/pageheaders/t4_myFeatures.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_myFeatures.gif
+/buttons/t3_contact.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_contact.gif
+/buttons/t3_benefits.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_benefits.gif
+/buttons/t3_freejewelry.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_freejewelry.gif
+/buttons/t3_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_joinus.gif
+/buttons/t3_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_joinus.gif
+/pageheaders/t4_hostAshow.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_hostAshow.gif
+/buttons/b_moreAboutBenefits.gif
+perl ~/src/perl/si.pl 4 /buttons/b_moreAboutBenefits.gif
+/nav/headers/host_a_show_image.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/host_a_show_image.jpg
+/pageheaders/t4_welcome.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_welcome.gif
+/common/personal_header-image.jpg
+perl ~/src/perl/si.pl 4 /common/personal_header-image.jpg
+/subheaders/t4_wantfreejewelry.jpg
+perl ~/src/perl/si.pl 4 /subheaders/t4_wantfreejewelry.jpg
+/subheaders/t4_joinustoday.jpg
+perl ~/src/perl/si.pl 4 /subheaders/t4_joinustoday.jpg
+/subheaders/t4_rc_collection.jpg
+perl ~/src/perl/si.pl 4 /subheaders/t4_rc_collection.jpg
+/homepage/t3_thumb_redcarpet.jpg
+perl ~/src/perl/si.pl 4 /homepage/t3_thumb_redcarpet.jpg
+/homepage/t4_CNBC.jpg
+perl ~/src/perl/si.pl 4 /homepage/t4_CNBC.jpg
+/pageheaders/t4_myBusiness.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_myBusiness.gif
+/common/personal_header-image.jpg
+perl ~/src/perl/si.pl 4 /common/personal_header-image.jpg
+/pageheaders/t4_myBusiness.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_myBusiness.gif
+/common/personal_header-image.jpg
+perl ~/src/perl/si.pl 4 /common/personal_header-image.jpg
+/subheaders/t4_myFeatures.gif
+perl ~/src/perl/si.pl 4 /subheaders/t4_myFeatures.gif
+/subheaders/t4_myEvents.gif
+perl ~/src/perl/si.pl 4 /subheaders/t4_myEvents.gif
+/pageheaders/t4_ourOpportunity.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t4_ourOpportunity.gif
+/nav/headers/our_opportunity_image.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/our_opportunity_image.jpg
+/subheaders/t4_startBusiness.gif
+perl ~/src/perl/si.pl 4 /subheaders/t4_startBusiness.gif
+/subheaders/t4_findOutHow.gif
+perl ~/src/perl/si.pl 4 /subheaders/t4_findOutHow.gif
+/buttons/b_joinUsToday.gif
+perl ~/src/perl/si.pl 4 /buttons/b_joinUsToday.gif
+/nav/headers/t6_contact_me.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/t6_contact_me.jpg
+/pageheaders/t6_contactMe.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t6_contactMe.gif
+/nav/headers/t6_contact_me.jpg
+perl ~/src/perl/si.pl 4 /nav/headers/t6_contact_me.jpg
+/pageheaders/t6_contactMe.gif
+perl ~/src/perl/si.pl 4 /pageheaders/t6_contactMe.gif
+/buttons/t3_contact.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_contact.gif
+/buttons/t3_benefits.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_benefits.gif
+/buttons/t3_freejewelry.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_freejewelry.gif
+/buttons/t3_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_joinus.gif
+/buttons/t3_joinus.gif
+perl ~/src/perl/si.pl 4 /buttons/t3_joinus.gif
+/buttons/t6_benefits.jpg
+perl ~/src/perl/si.pl 4 /buttons/t6_benefits.jpg
+/buttons/t6_goButton1.gif
+perl ~/src/perl/si.pl 4 /buttons/t6_goButton1.gif
+/buttons/t6_goButton1.gif
+perl ~/src/perl/si.pl 4 /buttons/t6_goButton1.gif
+/buttons/t6_CNBC.jpg
+perl ~/src/perl/si.pl 4 /buttons/t6_CNBC.jpg
+/buttons/t6_joinUs.jpg
+perl ~/src/perl/si.pl 4 /buttons/t6_joinUs.jpg
+238 files searched.
+98 instances of regex found.
+
+----------------------
+Total instances: 98

@@ -1,0 +1,344 @@
+Processing ls-sites ...		
+		
+ls-sites/defaultroot/jsp/menu.jsp	15	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/my-business.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	18	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/divider.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	22	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/our-opportunity.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	25	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/divider.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	29	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/our-jewelry.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	32	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/divider.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	36	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/host-a-show.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	39	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/divider.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	43	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/about-lia-sophia.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	46	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/divider.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	50	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/contact-me.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	60	"<td align=""left"" valign=""top""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/hostess-connection-submenu.jpg"" border=""0""></td>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	63	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/<%= ""Y"".equals(request.getParameter(""smWelcome""))?""welcome-submenu-sel.jpg"":""welcome-submenu.jpg"" %>"" border=""0""></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	65	"<td align=""left"" valign=""top""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/divider-submenu.jpg"" border=""0""></td>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	68	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/<%= ""Y"".equals(request.getParameter(""smHostessBenefits""))?""hostess-benefits-submenu_se.jpg"":""hostess-benefits-submenu.jpg"" %>"" border=""0""></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	70	"<td align=""left"" valign=""top""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/divider-submenu.jpg"" border=""0""></td>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	73	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/<%= ""Y"".equals(request.getParameter(""smWishList""))?""wish-list-submenu-sel.jpg"":""wish-list-submenu.jpg"" %>"" border=""0""></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	75	"<td align=""left"" valign=""top""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/divider-submenu.jpg"" border=""0""></td>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	78	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/<%= ""Y"".equals(request.getParameter(""smYourGuestList""))?""your-guest-list-submenu-sel.jpg"":""your-guest-list-submenu.jpg""%>"" border=""0""></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	80	"<td align=""left"" valign=""top""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/divider-submenu.jpg"" border=""0""></td>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	83	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostessconnection/submenu/<%= ""Y"".equals(request.getParameter(""smSuccessTips""))?""success-tips-submenu-sel.jpg"":""success-tips-submenu.jpg"" %>"" border=""0""></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	99	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/<%= request.getParameter(""headerImage"") %>"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	104	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	110	"<a href=""/sites/<%= pstInfo.getSiteName() %>""><img alt=""<%= webContent.getContentValue(""Shared.TxtHome"") %>"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/ls_logo.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	115	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""30"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	122	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/my-business.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	127	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	134	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/our-opportunity.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	139	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	146	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/our-jewelry.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	151	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	158	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/host-a-show.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	163	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	170	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/about-lia-sophia.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	175	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	182	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/hostess-connection.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	187	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	194	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/contact-me.gif"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/menu.jsp	199	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/spacer.gif"" height=""15"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/template-footer.jsp	22	"<td><img src=""/skins/sites/template<c:out value=""${pstInfo.skinId}"" />/images/spacer.gif"" height=""5""/></td>"
+		
+ls-sites/defaultroot/jsp/template-header.jsp	88	"<img alt=""<c:out value=""${requestScope.txtHome}"" />"" src=""/skins/sites/template<c:out value=""${pstInfo.skinId}"" />/images/<c:out value=""${pstInfo.selectedLocale}"" />/nav/hostessconnection/ls-logo.jpg"" border=""0""/></a>"
+		
+ls-sites/defaultroot/jsp/template-header.jsp	95	"<img src=""/skins/sites/template<c:out value=""${pstInfo.skinId}"" />/images/<c:out value=""${pstInfo.selectedLocale}"" />/pageheaders/<c:out value=""${requestScope.headerImage}"" />"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/template-header.jsp	102	"<img src=""/skins/sites/template<c:out value=""${pstInfo.skinId}"" />/images/<c:out value=""${pstInfo.selectedLocale}"" />/pageheaders/<c:out value=""${requestScope.headerTextImage}"" />"" border=""0""/>"
+		
+ls-sites/defaultroot/jsp/template-header.jsp	110	"<td width=""250"" height=""2"" align=""left"" valign=""top"" bgcolor=""#687FA9""><img src=""/skins/sites/template<c:out value=""${pstInfo.skinId}"" />/images/spacer.gif"" height=""2""/></td>"
+		
+ls-sites/defaultroot/jsp/template-header.jsp	111	"<td height=""2"" align=""left"" valign=""top"" bgcolor=""#687FA9""><img src=""/skins/sites/template<c:out value=""${pstInfo.skinId}"" />/images/spacer.gif"" height=""2""/></td>"
+		
+ls-sites/defaultroot/jsp/templates/template-main-header-user-include.jsp	24	"<br><a href=""/publish/prioritylist""><img src=""/images/icons/green-ball-blinking.gif"" border=""0"" align=""middle""><font color=""white""> <fmt:message key=""template.main.header.priorityAlerts"" bundle=""${lsResources}""><fmt:param value=""${priorityAlerts}""/></fmt:message><font color=""white""></a>&nbsp;&nbsp;&nbsp;"
+		
+ls-sites/defaultroot/jsp/templates/template-main-header-user-include.jsp	27	"<br><a href=""/showassistant""><img src=""/images/icons/green-ball-blinking.gif"" border=""0"" align=""middle""><font color=""white""> <fmt:message key=""template.main.header.unreviewedOrders"" bundle=""${lsResources}""><fmt:param value=""${repTotalUnreviewedWebOrders}""/></fmt:message><font color=""white""></a>&nbsp;&nbsp;&nbsp;"
+		
+ls-sites/defaultroot/skins/sites/template.jsp	220	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/line.gif"" alt="""""
+		
+ls-sites/defaultroot/skins/sites/template3/about.jsp	20	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/about-header.jpg"" alt=""""  border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/about.jsp	22	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_aboutliasophia.gif"" alt="""" width=""346"" height=""36"" border=""0""><br></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/about.jsp	26	"<p class=""heading""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_changinglives.gif"" alt="""" width=""491"" height=""26"" border=""0""><br><br></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/contact-me-thanks.jsp	21	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/contact-me-header.jpg"" alt="""" width=""251"" height=""194"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/contact-me-thanks.jsp	23	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_contactme.gif"" alt="""" width=""246"" height=""39"" border=""0""><br></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/contact-me.jsp	148	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/contact-me-header.jpg"" alt="""" width=""251"" height=""194"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/contact-me.jsp	150	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_contactme.gif"" alt="""" width=""246"" height=""39"" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/event-detail.jsp	52	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/my-events-header.jpg"" alt="""" width=""251"" height=""194"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/event-detail.jsp	54	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_myevents.gif"" alt="""" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/event-detail.jsp	79	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_more.gif"" alt="""" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/event-detail.jsp	95	"<p class=""text""><a href=""/sites/<%= pstInfo.getSiteName() %>/my-business""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_back.gif"" alt="""" width=""55"" height=""16"" border=""0""></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/events.jsp	75	"<p class=""text""><a href=""<%= hRef%>""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_more.gif"" alt="""" border=""0""></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/feature-detail.jsp	63	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_myfeatures.gif"" alt="""" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/feature-detail.jsp	74	"<p class=""text""><br><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_more.gif"" alt="""" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/feature-detail.jsp	83	"<p class=""text""><a href=""/sites/<%= pstInfo.getSiteName() %>/my-business""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_back.gif"" alt="""" width=""55"" height=""16"" border=""0""></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/footer.jsp	30	"<a href=""/sites/<%= pstInfo.getSiteName() %>/contact-me""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_contact.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template3/footer.jsp	35	"<a href=""http://corporate.liasophia.ca/pws_monthly_specials.html"" target=""_new""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_benefits.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template3/footer.jsp	48	"<a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_freejewelry.gif"" alt="""" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template3/footer.jsp	57	"<a href=""/sites/<%= pstInfo.getSiteName() %>/our-opportunity""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_joinus.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template3/footer.jsp	61	"<a href=""/repenroll/start.ls?<%= pstInfo.getSiteName() %>""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_joinus.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template3/host-a-show.jsp	19	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/host-a-show-header.jpg"" alt="""" width=""251"" height=""194"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/host-a-show.jsp	21	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_hostashow.gif"" alt="""" width=""271"" height=""39"" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	59	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/common/personal_header-image.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	66	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_welcome.gif"" alt="""" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	74	"<a href=""/sites/<%= pstInfo.getSiteName() %>/my-business-detail""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_more.gif"" alt=""""  border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	101	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_home_freejewelry.gif"" alt="""" border=""0"">"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	103	"<a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_learnmore.gif"" alt="""" border=""0""></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	106	"<td width=""130""><a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/homepage/t3_thumb_freejewelry.jpg"" alt="""" border=""0""></a></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	118	"<td width=""530""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_home_joinus.gif"" alt="""" border=""0"">"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	122	"<a href=""/sites/<%= pstInfo.getSiteName() %>/our-opportunity""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_learnmore.gif"" alt="""" border=""0""></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	124	"<td width=""130""><a href=""/sites/<%= pstInfo.getSiteName() %>/our-opportunity""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/homepage/t3_thumb_joinus.jpg"" alt="""" border=""0""></a></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	135	"<td width=""530""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_home_redcarpet.gif"" alt="""" border=""0"">"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	138	"<a href=""http://<%=domain%>/redcarpet_landing_advisor.html"" target=""_new""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_seemore.gif"" alt="""" border=""0""></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/index.jsp	150	"<a href=""http://corporate.liasophia.com/press/video/091708_CNBC_MIKE_ON_AMERICA.html""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/homepage/t3_CNBC.jpg"" alt="""" width=""360"" height=""62"" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business-more.jsp	46	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/common/personal_header-image.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business-more.jsp	52	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_mybusiness.gif"" alt="""" width=""244"" height=""37"" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business.jsp	44	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/common/personal_header-image.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business.jsp	50	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_mybusiness.gif"" alt="""" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business.jsp	59	"<a href=""/sites/<%= pstInfo.getSiteName() %>/my-business-detail""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_more.gif"" alt=""""  border=""0""></a></font></p>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business.jsp	72	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_myfeatures.gif"" alt="""" width=""491"" height=""21"" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/my-business.jsp	85	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_myevents.gif"" alt="""" width=""491"" height=""21"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/our-opportunity.jsp	19	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/our-opportunity-header.jpg"" alt="""" width=""251"" height=""194"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/our-opportunity.jsp	21	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t3_ouropportunity.gif"" alt="""" width=""359"" height=""36"" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/our-opportunity.jsp	41	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_startbusiness.gif"" alt="""" width=""491"" height=""26"" border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template3/our-opportunity.jsp	67	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t3_findouthow.gif"" alt="""" width=""491"" height=""26"" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/our-opportunity.jsp	71	"<td><a href=""/sites/<%= pstInfo.getSiteName() %>/contact-me""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_more.gif"" alt="""" width=""57"" height=""17"" border=""0""></a></td>"
+		
+ls-sites/defaultroot/skins/sites/template3/template-corporateCatalog.jsp	70	"<img src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/t3_logo_lia.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template3/template-header.jsp	108	"<a href=/sites/<%= pstInfo.getSiteName() %>><img src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/t3_logo_lia.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template3/weborder/PartySearch.jsp	152	"<img align=""bottom"" border=""0"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/weborder/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/go.gif""/>"
+		
+ls-sites/defaultroot/skins/sites/template4/about.jsp	23	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_about.gif"" alt="""" width=""309"" height=""49"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/about.jsp	25	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_interestingPast.gif""><br><br></p>"
+		
+ls-sites/defaultroot/skins/sites/template4/about.jsp	29	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_changingLives.gif"" alt="""" height=""34"" width=""490"" border=""0"" /><br><br></p>"
+		
+ls-sites/defaultroot/skins/sites/template4/about.jsp	35	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/about_image.jpg"" alt=""""  border=""0"" /></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/contact-me-thanks.jsp	26	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_contactMe.gif"" alt="""" height=""38"" width=""216"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/contact-me-thanks.jsp	59	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/contact_me_image.jpg"" alt="""" height=""194"" width=""251"" border=""0"" /></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/contact-me.jsp	96	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_contactMe.gif"" alt="""" height=""38"" width=""216"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/contact-me.jsp	214	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/contact_me_image.jpg"" alt="""" height=""194"" width=""251"" border=""0"" /></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/event-detail.jsp	56	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_myEvents.gif"" alt="""" width=""187"" height=""47"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/event-detail.jsp	66	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/my-events-header.jpg"" alt="""" height=""194"" width=""251"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/event-detail.jsp	80	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_myEvents.gif"" alt="""" height=""34"" width=""490"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template4/feature-detail.jsp	57	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_myFeatures.gif"" alt="""" width=""224"" height=""48"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/feature-detail.jsp	85	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/en_US/subheaders/t4_myFeatures.gif"" alt="""" height=""34"" width=""490"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template4/footer.jsp	28	"<a href=""/sites/<%= pstInfo.getSiteName() %>/contact-me""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_contact.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template4/footer.jsp	33	"<a href=""http://corporate.liasophia.com/S3_hostess_benefits_advisor.html"" target=""_new""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_benefits.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template4/footer.jsp	46	"<a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_freejewelry.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/footer.jsp	54	"<a href=""/sites/<%= pstInfo.getSiteName() %>/our-opportunity""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_joinus.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/footer.jsp	58	"<a href=""/repenroll/start.ls?<%= pstInfo.getSiteName() %>""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_joinus.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/host-a-show.jsp	23	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_hostAshow.gif"" alt="""" width=""236"" height=""38"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/host-a-show.jsp	45	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/b_moreAboutBenefits.gif"" alt="""" height=""75"" width=""126"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/host-a-show.jsp	51	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/host_a_show_image.jpg"" alt="""" height=""196"" width=""253"" border=""0"" /></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	32	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_welcome.gif"" alt="""" width=""241"" height=""46"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	74	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/common/personal_header-image.jpg"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	93	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_wantfreejewelry.jpg"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	94	"<p align=""center""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/index_boxA.jpg"" /></p>"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	103	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_joinustoday.jpg"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	104	"<p align=""center""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/index_boxB.jpg"" /></p>"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	113	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_rc_collection.jpg"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	114	"<p align=""center""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/homepage/t3_thumb_redcarpet.jpg"" alt="""" border=""0"">"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	115	"<!-- <img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/index_boxC.jpg"" />--></p>"
+		
+ls-sites/defaultroot/skins/sites/template4/index.jsp	129	"<center><a href=""http://corporate.liasophia.com/press/video/091708_CNBC_MIKE_ON_AMERICA.html""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/homepage/t4_CNBC.jpg"" /></a></center><br/>"
+ls-sites/defaultroot/skins/sites/template4/my-business-more.jsp	27	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_myBusiness.gif"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/my-business-more.jsp	60	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/common/personal_header-image.jpg"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/my-business.jsp	25	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_myBusiness.gif"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/my-business.jsp	68	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/common/personal_header-image.jpg"" border=""0""/>"
+		
+ls-sites/defaultroot/skins/sites/template4/my-business.jsp	85	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_myFeatures.gif"" alt="""" height=""34"" width=""490"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template4/my-business.jsp	106	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_myEvents.gif"" alt="""" height=""34"" width=""490"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template4/our-opportunity.jsp	24	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t4_ourOpportunity.gif"" alt="""" width=""323"" height=""47"" border=""0"" /><br />"
+		
+ls-sites/defaultroot/skins/sites/template4/our-opportunity.jsp	36	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/our_opportunity_image.jpg"" alt="""" height=""196"" width=""253"" border=""0"" /></div>"
+		
+ls-sites/defaultroot/skins/sites/template4/our-opportunity.jsp	49	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_startBusiness.gif"" alt="""" height=""34"" width=""490"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template4/our-opportunity.jsp	84	"<td><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/subheaders/t4_findOutHow.gif"" alt="""" height=""34"" width=""490"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template4/our-opportunity.jsp	93	"<img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/b_joinUsToday.gif"" alt="""" height=""74"" width=""124"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template4/template-header.jsp	116	"<img src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/t4_logo.jpg"" border=""0"">"
+		
+ls-sites/defaultroot/skins/sites/template4/weborder/PartySearch.jsp	167	"<img align=""bottom"" border=""0"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/weborder/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/go.gif""/>"
+		
+ls-sites/defaultroot/skins/sites/template6/about.jsp	16	"<td valign=""top"" width=""300""><img class=""heading_img""  src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/t6_about.jpg"" alt=""lia sophia Jewelry"" width=""250"" height=""255"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template6/about.jsp	17	"<td><img class=""secondaryHeading_img""src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_about.gif"" alt=""My Business"" width=""435"" height=""60"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template6/contact-me-thanks.jsp	22	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/t6_contact_me.jpg"" alt="""" border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template6/contact-me-thanks.jsp	24	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_contactMe.gif"" alt=""""  border=""0""><br></p>"
+		
+ls-sites/defaultroot/skins/sites/template6/contact-me.jsp	86	"<td width=""270""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/t6_contact_me.jpg"" alt=""""  border=""0""></td>"
+		
+ls-sites/defaultroot/skins/sites/template6/contact-me.jsp	88	"<p class=""text""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_contactMe.gif"" alt=""""  border=""0""><br>"
+		
+ls-sites/defaultroot/skins/sites/template6/feature-detail.jsp	56	"<img class=""secondaryHeading_img"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_myFeatures.gif"" alt=""My Business"" width=""342"" height=""53"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template6/footer.jsp	28	"<a href=""/sites/<%= pstInfo.getSiteName() %>/contact-me""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_contact.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template6/footer.jsp	33	"<a href=""http://corporate.liasophia.com/S3_hostess_benefits_advisor.html"" target=""_new""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_benefits.gif"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template6/footer.jsp	46	"<a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_freejewelry.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template6/footer.jsp	54	"<a href=""/sites/<%= pstInfo.getSiteName() %>/our-opportunity""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_joinus.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template6/footer.jsp	58	"<a href=""/repenroll/start.ls?<%= pstInfo.getSiteName() %>""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t3_joinus.gif"" alt="""" border=""0""></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template6/host-a-show.jsp	17	"<td valign=""top"" width=""300""><img class=""heading_img"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/headers/t6_host_a_show.jpg"" alt=""lia sophia Jewelry"" width=""250"" height=""256"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template6/host-a-show.jsp	18	"<td><img class=""secondaryHeading_img"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_hostAshow.gif"" alt=""My Business"" width=""318"" height=""47"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template6/host-a-show.jsp	41	"<a href=""http://corporate.liasophia.com/S3_hostess_benefits_advisor.html""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t6_benefits.jpg"" alt=""Join Us Today!"" height=""71"" width=""323"" border=""0"" /></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template6/index.jsp	77	"<a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show""><img class=""preview"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/index_freeJewelry_preview.jpg"""
+		
+ls-sites/defaultroot/skins/sites/template6/index.jsp	80	"<p><a href=""/sites/<%= pstInfo.getSiteName() %>/host-a-show"">Learn more about how to receive FREE jewelry as a Hostess! <img class=""button"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t6_goButton.gif"" alt=""Go""/></a>"
+		
+ls-sites/defaultroot/skins/sites/template6/index.jsp	91	"complete our Online Agreement. <img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t6_goButton1.gif"" alt=""Go""/></a></p>"
+		
+ls-sites/defaultroot/skins/sites/template6/index.jsp	97	"Recently featured at the Sundance Film Festival! <img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t6_goButton1.gif"""
+		
+ls-sites/defaultroot/skins/sites/template6/index.jsp	104	"<a href=""http://corporate.liasophia.com/press/video/091708_CNBC_MIKE_ON_AMERICA.html""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t6_CNBC.jpg""/></a>"
+		
+ls-sites/defaultroot/skins/sites/template6/our-opportunity.jsp	16	"<td valign=""top"" width=""300""><img class=""heading_img"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_our_opportunity.jpg"" alt=""lia sophia Jewelry"" width=""250"" height=""256"" border=""0"" /></td>"
+		
+ls-sites/defaultroot/skins/sites/template6/our-opportunity.jsp	18	"<img class=""secondaryHeading_img""  src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/pageheaders/t6_ourOpportunity.gif"" alt=""My Business"" width=""435"" height=""55"" border=""0"" />"
+		
+ls-sites/defaultroot/skins/sites/template6/our-opportunity.jsp	53	"<a href=""/repenroll/start.ls?<%= pstInfo.getSiteName() %>""><img src=""/skins/sites/template<%= pstInfo.getSkinId() %>/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/t6_joinUs.jpg"" alt=""Join Us Today!"" height=""50"" width=""313"" border=""0"" /></a></div>"
+		
+ls-sites/defaultroot/skins/sites/template6/template-header.jsp	108	"<a href=/sites/<%= pstInfo.getSiteName() %>><img src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/nav/t6_logo.png"" border=""0""></a>"
+		
+ls-sites/defaultroot/skins/sites/template6/template-header.jsp	113	"<li id=""info""><img class=""contactIcon"" src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/headers/t6_icon_day.gif"" alt=""Day Phone"" /><c:if test=""${!empty pstInfo.primaryPhone.phoneNumber}"">"
+		
+ls-sites/defaultroot/skins/sites/template6/template-header.jsp	121	"<li id=""info""><img class=""contactIcon"" src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/headers/t6_icon_evening.gif"" alt=""Evening Phone"" /><c:if test=""${!empty pstInfo.secondaryPhone.phoneNumber}"">"
+		
+ls-sites/defaultroot/skins/sites/template6/template-header.jsp	125	"<li><img class=""contactIcon"" src=""/skins/sites/template<%= skinId %>/images/<%= pstInfo.getSelectedLocale().toString() %>/headers/t6_icon_email.gif"" alt=""E-mail"" /><a href=""<c:out value=""${requestScope.serverUrlValue}"" />/sites/<c:out value=""${pstInfo.siteName}"" />/contact-me"" class=""email""><c:out value=""${pstInfo.emailAddress.address}"" /></a></li>"
+		
+ls-sites/defaultroot/skins/sites/template6/weborder/PartySearch.jsp	153	"<img align=""bottom"" border=""0"" src=""/skins/sites/template<%= pstInfo.getSkinId() %>/weborder/images/<%= pstInfo.getSelectedLocale().toString() %>/buttons/go.gif""/>"
+		
+238 files searched.		
+169 instances of regex found.		
+		
+----------------------		
+Total instances: 169		
